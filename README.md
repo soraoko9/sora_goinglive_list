@@ -1,0 +1,3 @@
+- use the following link to get your homies twitch id - https://www.streamweasels.com/tools/convert-twitch-username-%20to-user-id/
+- add the id on the bottom of streamers.txt and make sure there are no spaces or new lines behind it
+- profit
